@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdnasim69&show_icons=true&locale=en" alt="mdnasim69" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnasim69&" alt="mdnasim69" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnasim69&" alt="rupomsoft" /></p>
